@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="menu_list" >
+        <item>Delete Specific Record</item>
+        <item>Asynchronous Get</item>
+        <item>Updating Records</item>
+        <item>Posting a String</item>
+    </string-array>
+
+</resources>

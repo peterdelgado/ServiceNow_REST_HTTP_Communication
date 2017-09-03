@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ServiceNow REST Web Services</string>
+    <string name="textView1">Please enter the name of the table. Then click on the method of retrieval.</string>
+    <string name="action_settings">Settings</string>
+    <string name="result">Result</string>
+    <string name="header">Header</string>
+    <string name="body">Body</string>
+    <string name="textButton">GET</string>
+    <string name="textView">Enter Table</string>
+    <string name="Post">Post</string>
+</resources>
